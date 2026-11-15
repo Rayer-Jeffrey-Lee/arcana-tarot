@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "ARCANA · 月隐塔罗",
+  "short_name": "ARCANA",
+  "description": "78 classic tarot cards, five spreads and three languages for a moment of reflection.",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0f17",
+  "theme_color": "#0d0f17",
+  "categories": ["lifestyle", "entertainment"],
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}

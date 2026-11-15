@@ -1,0 +1,713 @@
+{
+  "title": "Rider–Waite–Smith · Roses & Lilies (1909)",
+  "artist": "Pamela Colman Smith",
+  "edition": "Original 1909 Rider–Waite–Smith",
+  "scans": "Saskia Jansen / Wikimedia Commons",
+  "status": "Public-domain scans; source attribution retained",
+  "source": "https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck_(Roses_%26_Lilies)",
+  "processing": "Original orientation preserved; EXIF autorotation, proportion-preserving resize to 500px width, JPEG quality 84; no artwork crop.",
+  "files": [
+    {
+      "code": "c01",
+      "path": "./assets/cards/c01.jpg",
+      "width": 500,
+      "height": 869,
+      "bytes": 147954,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/RWS1909_-_Cups_01.jpeg/500px-RWS1909_-_Cups_01.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/92/RWS1909_-_Cups_01.jpeg"
+    },
+    {
+      "code": "c02",
+      "path": "./assets/cards/c02.jpg",
+      "width": 500,
+      "height": 848,
+      "bytes": 149417,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/RWS1909_-_Cups_02.jpeg/500px-RWS1909_-_Cups_02.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/RWS1909_-_Cups_02.jpeg"
+    },
+    {
+      "code": "c03",
+      "path": "./assets/cards/c03.jpg",
+      "width": 500,
+      "height": 885,
+      "bytes": 159281,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/RWS1909_-_Cups_03.jpeg/500px-RWS1909_-_Cups_03.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/RWS1909_-_Cups_03.jpeg"
+    },
+    {
+      "code": "c04",
+      "path": "./assets/cards/c04.jpg",
+      "width": 500,
+      "height": 854,
+      "bytes": 148581,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/RWS1909_-_Cups_04.jpeg/500px-RWS1909_-_Cups_04.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/RWS1909_-_Cups_04.jpeg"
+    },
+    {
+      "code": "c05",
+      "path": "./assets/cards/c05.jpg",
+      "width": 500,
+      "height": 874,
+      "bytes": 121553,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/RWS1909_-_Cups_05.jpeg/500px-RWS1909_-_Cups_05.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/RWS1909_-_Cups_05.jpeg"
+    },
+    {
+      "code": "c06",
+      "path": "./assets/cards/c06.jpg",
+      "width": 500,
+      "height": 854,
+      "bytes": 159404,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/RWS1909_-_Cups_06.jpeg/500px-RWS1909_-_Cups_06.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/RWS1909_-_Cups_06.jpeg"
+    },
+    {
+      "code": "c07",
+      "path": "./assets/cards/c07.jpg",
+      "width": 500,
+      "height": 888,
+      "bytes": 145764,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/RWS1909_-_Cups_07.jpeg/500px-RWS1909_-_Cups_07.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Cups_07.jpeg"
+    },
+    {
+      "code": "c08",
+      "path": "./assets/cards/c08.jpg",
+      "width": 500,
+      "height": 866,
+      "bytes": 140843,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/RWS1909_-_Cups_08.jpeg/500px-RWS1909_-_Cups_08.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/RWS1909_-_Cups_08.jpeg"
+    },
+    {
+      "code": "c09",
+      "path": "./assets/cards/c09.jpg",
+      "width": 500,
+      "height": 869,
+      "bytes": 137397,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/RWS1909_-_Cups_09.jpeg/500px-RWS1909_-_Cups_09.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/RWS1909_-_Cups_09.jpeg"
+    },
+    {
+      "code": "c10",
+      "path": "./assets/cards/c10.jpg",
+      "width": 500,
+      "height": 844,
+      "bytes": 150653,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/RWS1909_-_Cups_10.jpeg/500px-RWS1909_-_Cups_10.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RWS1909_-_Cups_10.jpeg"
+    },
+    {
+      "code": "c11",
+      "path": "./assets/cards/c11.jpg",
+      "width": 500,
+      "height": 879,
+      "bytes": 153409,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/RWS1909_-_Cups_11.jpeg/500px-RWS1909_-_Cups_11.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RWS1909_-_Cups_11.jpeg"
+    },
+    {
+      "code": "c12",
+      "path": "./assets/cards/c12.jpg",
+      "width": 500,
+      "height": 859,
+      "bytes": 146854,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/RWS1909_-_Cups_12.jpeg/500px-RWS1909_-_Cups_12.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/RWS1909_-_Cups_12.jpeg"
+    },
+    {
+      "code": "c13",
+      "path": "./assets/cards/c13.jpg",
+      "width": 500,
+      "height": 869,
+      "bytes": 151744,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/RWS1909_-_Cups_13.jpeg/500px-RWS1909_-_Cups_13.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/RWS1909_-_Cups_13.jpeg"
+    },
+    {
+      "code": "c14",
+      "path": "./assets/cards/c14.jpg",
+      "width": 500,
+      "height": 850,
+      "bytes": 148562,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/RWS1909_-_Cups_14.jpeg/500px-RWS1909_-_Cups_14.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/RWS1909_-_Cups_14.jpeg"
+    },
+    {
+      "code": "m00",
+      "path": "./assets/cards/m00.jpg",
+      "width": 500,
+      "height": 866,
+      "bytes": 137897,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/RWS1909_-_00_Fool.jpeg/500px-RWS1909_-_00_Fool.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/RWS1909_-_00_Fool.jpeg"
+    },
+    {
+      "code": "m01",
+      "path": "./assets/cards/m01.jpg",
+      "width": 500,
+      "height": 842,
+      "bytes": 127816,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/RWS1909_-_01_Magician.jpeg/500px-RWS1909_-_01_Magician.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/RWS1909_-_01_Magician.jpeg"
+    },
+    {
+      "code": "m02",
+      "path": "./assets/cards/m02.jpg",
+      "width": 500,
+      "height": 886,
+      "bytes": 153875,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/RWS1909_-_02_High_Priestess.jpeg/500px-RWS1909_-_02_High_Priestess.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_02_High_Priestess.jpeg"
+    },
+    {
+      "code": "m03",
+      "path": "./assets/cards/m03.jpg",
+      "width": 500,
+      "height": 846,
+      "bytes": 149957,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/RWS1909_-_03_Empress.jpeg/500px-RWS1909_-_03_Empress.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/RWS1909_-_03_Empress.jpeg"
+    },
+    {
+      "code": "m04",
+      "path": "./assets/cards/m04.jpg",
+      "width": 500,
+      "height": 868,
+      "bytes": 154502,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/RWS1909_-_04_Emperor.jpeg/500px-RWS1909_-_04_Emperor.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/RWS1909_-_04_Emperor.jpeg"
+    },
+    {
+      "code": "m05",
+      "path": "./assets/cards/m05.jpg",
+      "width": 500,
+      "height": 851,
+      "bytes": 154177,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/RWS1909_-_05_Hierophant.jpeg/500px-RWS1909_-_05_Hierophant.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/RWS1909_-_05_Hierophant.jpeg"
+    },
+    {
+      "code": "m06",
+      "path": "./assets/cards/m06.jpg",
+      "width": 500,
+      "height": 878,
+      "bytes": 167154,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/RWS1909_-_06_Lovers.jpeg/500px-RWS1909_-_06_Lovers.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/RWS1909_-_06_Lovers.jpeg"
+    },
+    {
+      "code": "m07",
+      "path": "./assets/cards/m07.jpg",
+      "width": 500,
+      "height": 860,
+      "bytes": 147309,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/RWS1909_-_07_Chariot.jpeg/500px-RWS1909_-_07_Chariot.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/RWS1909_-_07_Chariot.jpeg"
+    },
+    {
+      "code": "m08",
+      "path": "./assets/cards/m08.jpg",
+      "width": 500,
+      "height": 865,
+      "bytes": 127864,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/RWS1909_-_08_Strength.jpeg/500px-RWS1909_-_08_Strength.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/RWS1909_-_08_Strength.jpeg"
+    },
+    {
+      "code": "m09",
+      "path": "./assets/cards/m09.jpg",
+      "width": 500,
+      "height": 846,
+      "bytes": 130423,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/RWS1909_-_09_Hermit.jpeg/500px-RWS1909_-_09_Hermit.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/RWS1909_-_09_Hermit.jpeg"
+    },
+    {
+      "code": "m10",
+      "path": "./assets/cards/m10.jpg",
+      "width": 500,
+      "height": 883,
+      "bytes": 164651,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/RWS1909_-_10_Wheel_of_Fortune.jpeg/500px-RWS1909_-_10_Wheel_of_Fortune.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/RWS1909_-_10_Wheel_of_Fortune.jpeg"
+    },
+    {
+      "code": "m11",
+      "path": "./assets/cards/m11.jpg",
+      "width": 500,
+      "height": 870,
+      "bytes": 150966,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/RWS1909_-_11_Justice.jpeg/500px-RWS1909_-_11_Justice.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/RWS1909_-_11_Justice.jpeg"
+    },
+    {
+      "code": "m12",
+      "path": "./assets/cards/m12.jpg",
+      "width": 500,
+      "height": 876,
+      "bytes": 148895,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/RWS1909_-_12_Hanged_Man.jpeg/500px-RWS1909_-_12_Hanged_Man.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/RWS1909_-_12_Hanged_Man.jpeg"
+    },
+    {
+      "code": "m13",
+      "path": "./assets/cards/m13.jpg",
+      "width": 500,
+      "height": 857,
+      "bytes": 156099,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/RWS1909_-_13_Death.jpeg/500px-RWS1909_-_13_Death.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/RWS1909_-_13_Death.jpeg"
+    },
+    {
+      "code": "m14",
+      "path": "./assets/cards/m14.jpg",
+      "width": 500,
+      "height": 867,
+      "bytes": 161313,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/RWS1909_-_14_Temperance.jpeg/500px-RWS1909_-_14_Temperance.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/RWS1909_-_14_Temperance.jpeg"
+    },
+    {
+      "code": "m15",
+      "path": "./assets/cards/m15.jpg",
+      "width": 500,
+      "height": 856,
+      "bytes": 152971,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/RWS1909_-_15_Devil.jpeg/500px-RWS1909_-_15_Devil.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_15_Devil.jpeg"
+    },
+    {
+      "code": "m16",
+      "path": "./assets/cards/m16.jpg",
+      "width": 500,
+      "height": 875,
+      "bytes": 154092,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/RWS1909_-_16_Tower.jpeg/500px-RWS1909_-_16_Tower.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/RWS1909_-_16_Tower.jpeg"
+    },
+    {
+      "code": "m17",
+      "path": "./assets/cards/m17.jpg",
+      "width": 500,
+      "height": 847,
+      "bytes": 144069,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/RWS1909_-_17_Star.jpeg/500px-RWS1909_-_17_Star.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/RWS1909_-_17_Star.jpeg"
+    },
+    {
+      "code": "m18",
+      "path": "./assets/cards/m18.jpg",
+      "width": 500,
+      "height": 885,
+      "bytes": 160754,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/RWS1909_-_18_Moon.jpeg/500px-RWS1909_-_18_Moon.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RWS1909_-_18_Moon.jpeg"
+    },
+    {
+      "code": "m19",
+      "path": "./assets/cards/m19.jpg",
+      "width": 500,
+      "height": 860,
+      "bytes": 153079,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/RWS1909_-_19_Sun.jpeg/500px-RWS1909_-_19_Sun.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RWS1909_-_19_Sun.jpeg"
+    },
+    {
+      "code": "m20",
+      "path": "./assets/cards/m20.jpg",
+      "width": 500,
+      "height": 854,
+      "bytes": 155633,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/RWS1909_-_20_Judgement.jpeg/500px-RWS1909_-_20_Judgement.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/RWS1909_-_20_Judgement.jpeg"
+    },
+    {
+      "code": "m21",
+      "path": "./assets/cards/m21.jpg",
+      "width": 500,
+      "height": 851,
+      "bytes": 155891,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/RWS1909_-_21_World.jpeg/500px-RWS1909_-_21_World.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/RWS1909_-_21_World.jpeg"
+    },
+    {
+      "code": "p01",
+      "path": "./assets/cards/p01.jpg",
+      "width": 500,
+      "height": 869,
+      "bytes": 138323,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RWS1909_-_Pentacles_01.jpeg/500px-RWS1909_-_Pentacles_01.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RWS1909_-_Pentacles_01.jpeg"
+    },
+    {
+      "code": "p02",
+      "path": "./assets/cards/p02.jpg",
+      "width": 500,
+      "height": 854,
+      "bytes": 145049,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/RWS1909_-_Pentacles_02.jpeg/500px-RWS1909_-_Pentacles_02.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/RWS1909_-_Pentacles_02.jpeg"
+    },
+    {
+      "code": "p03",
+      "path": "./assets/cards/p03.jpg",
+      "width": 500,
+      "height": 883,
+      "bytes": 164867,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/RWS1909_-_Pentacles_03.jpeg/500px-RWS1909_-_Pentacles_03.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RWS1909_-_Pentacles_03.jpeg"
+    },
+    {
+      "code": "p04",
+      "path": "./assets/cards/p04.jpg",
+      "width": 500,
+      "height": 859,
+      "bytes": 132768,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/RWS1909_-_Pentacles_04.jpeg/500px-RWS1909_-_Pentacles_04.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RWS1909_-_Pentacles_04.jpeg"
+    },
+    {
+      "code": "p05",
+      "path": "./assets/cards/p05.jpg",
+      "width": 500,
+      "height": 858,
+      "bytes": 159435,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/RWS1909_-_Pentacles_05.jpeg/500px-RWS1909_-_Pentacles_05.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/RWS1909_-_Pentacles_05.jpeg"
+    },
+    {
+      "code": "p06",
+      "path": "./assets/cards/p06.jpg",
+      "width": 500,
+      "height": 842,
+      "bytes": 134762,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/RWS1909_-_Pentacles_06.jpeg/500px-RWS1909_-_Pentacles_06.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RWS1909_-_Pentacles_06.jpeg"
+    },
+    {
+      "code": "p07",
+      "path": "./assets/cards/p07.jpg",
+      "width": 500,
+      "height": 883,
+      "bytes": 157742,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/RWS1909_-_Pentacles_07.jpeg/500px-RWS1909_-_Pentacles_07.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/RWS1909_-_Pentacles_07.jpeg"
+    },
+    {
+      "code": "p08",
+      "path": "./assets/cards/p08.jpg",
+      "width": 500,
+      "height": 865,
+      "bytes": 141728,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/RWS1909_-_Pentacles_08.jpeg/500px-RWS1909_-_Pentacles_08.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RWS1909_-_Pentacles_08.jpeg"
+    },
+    {
+      "code": "p09",
+      "path": "./assets/cards/p09.jpg",
+      "width": 500,
+      "height": 869,
+      "bytes": 142187,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/RWS1909_-_Pentacles_09.jpeg/500px-RWS1909_-_Pentacles_09.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/RWS1909_-_Pentacles_09.jpeg"
+    },
+    {
+      "code": "p10",
+      "path": "./assets/cards/p10.jpg",
+      "width": 500,
+      "height": 860,
+      "bytes": 154902,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/RWS1909_-_Pentacles_10.jpeg/500px-RWS1909_-_Pentacles_10.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Pentacles_10.jpeg"
+    },
+    {
+      "code": "p11",
+      "path": "./assets/cards/p11.jpg",
+      "width": 500,
+      "height": 881,
+      "bytes": 131834,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/RWS1909_-_Pentacles_11.jpeg/500px-RWS1909_-_Pentacles_11.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/RWS1909_-_Pentacles_11.jpeg"
+    },
+    {
+      "code": "p12",
+      "path": "./assets/cards/p12.jpg",
+      "width": 500,
+      "height": 853,
+      "bytes": 127267,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/RWS1909_-_Pentacles_12.jpeg/500px-RWS1909_-_Pentacles_12.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/RWS1909_-_Pentacles_12.jpeg"
+    },
+    {
+      "code": "p13",
+      "path": "./assets/cards/p13.jpg",
+      "width": 500,
+      "height": 867,
+      "bytes": 170630,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/RWS1909_-_Pentacles_13.jpeg/500px-RWS1909_-_Pentacles_13.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/RWS1909_-_Pentacles_13.jpeg"
+    },
+    {
+      "code": "p14",
+      "path": "./assets/cards/p14.jpg",
+      "width": 500,
+      "height": 846,
+      "bytes": 147761,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RWS1909_-_Pentacles_14.jpeg/500px-RWS1909_-_Pentacles_14.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/RWS1909_-_Pentacles_14.jpeg"
+    },
+    {
+      "code": "s01",
+      "path": "./assets/cards/s01.jpg",
+      "width": 500,
+      "height": 873,
+      "bytes": 137206,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/RWS1909_-_Swords_01.jpeg/500px-RWS1909_-_Swords_01.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/RWS1909_-_Swords_01.jpeg"
+    },
+    {
+      "code": "s02",
+      "path": "./assets/cards/s02.jpg",
+      "width": 500,
+      "height": 853,
+      "bytes": 133794,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/RWS1909_-_Swords_02.jpeg/500px-RWS1909_-_Swords_02.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/RWS1909_-_Swords_02.jpeg"
+    },
+    {
+      "code": "s03",
+      "path": "./assets/cards/s03.jpg",
+      "width": 500,
+      "height": 867,
+      "bytes": 123832,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/RWS1909_-_Swords_03.jpeg/500px-RWS1909_-_Swords_03.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/RWS1909_-_Swords_03.jpeg"
+    },
+    {
+      "code": "s04",
+      "path": "./assets/cards/s04.jpg",
+      "width": 500,
+      "height": 850,
+      "bytes": 132153,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/RWS1909_-_Swords_04.jpeg/500px-RWS1909_-_Swords_04.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RWS1909_-_Swords_04.jpeg"
+    },
+    {
+      "code": "s05",
+      "path": "./assets/cards/s05.jpg",
+      "width": 500,
+      "height": 879,
+      "bytes": 158063,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/RWS1909_-_Swords_05.jpeg/500px-RWS1909_-_Swords_05.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RWS1909_-_Swords_05.jpeg"
+    },
+    {
+      "code": "s06",
+      "path": "./assets/cards/s06.jpg",
+      "width": 500,
+      "height": 855,
+      "bytes": 136716,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/RWS1909_-_Swords_06.jpeg/500px-RWS1909_-_Swords_06.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/RWS1909_-_Swords_06.jpeg"
+    },
+    {
+      "code": "s07",
+      "path": "./assets/cards/s07.jpg",
+      "width": 500,
+      "height": 878,
+      "bytes": 129579,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/RWS1909_-_Swords_07.jpeg/500px-RWS1909_-_Swords_07.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/RWS1909_-_Swords_07.jpeg"
+    },
+    {
+      "code": "s08",
+      "path": "./assets/cards/s08.jpg",
+      "width": 500,
+      "height": 852,
+      "bytes": 142681,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/RWS1909_-_Swords_08.jpeg/500px-RWS1909_-_Swords_08.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RWS1909_-_Swords_08.jpeg"
+    },
+    {
+      "code": "s09",
+      "path": "./assets/cards/s09.jpg",
+      "width": 500,
+      "height": 889,
+      "bytes": 150521,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/RWS1909_-_Swords_09.jpeg/500px-RWS1909_-_Swords_09.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/RWS1909_-_Swords_09.jpeg"
+    },
+    {
+      "code": "s10",
+      "path": "./assets/cards/s10.jpg",
+      "width": 500,
+      "height": 859,
+      "bytes": 138000,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/RWS1909_-_Swords_10.jpeg/500px-RWS1909_-_Swords_10.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/RWS1909_-_Swords_10.jpeg"
+    },
+    {
+      "code": "s11",
+      "path": "./assets/cards/s11.jpg",
+      "width": 500,
+      "height": 874,
+      "bytes": 142069,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/RWS1909_-_Swords_11.jpeg/500px-RWS1909_-_Swords_11.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RWS1909_-_Swords_11.jpeg"
+    },
+    {
+      "code": "s12",
+      "path": "./assets/cards/s12.jpg",
+      "width": 500,
+      "height": 848,
+      "bytes": 142931,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/RWS1909_-_Swords_12.jpeg/500px-RWS1909_-_Swords_12.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RWS1909_-_Swords_12.jpeg"
+    },
+    {
+      "code": "s13",
+      "path": "./assets/cards/s13.jpg",
+      "width": 500,
+      "height": 886,
+      "bytes": 146451,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/RWS1909_-_Swords_13.jpeg/500px-RWS1909_-_Swords_13.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/RWS1909_-_Swords_13.jpeg"
+    },
+    {
+      "code": "s14",
+      "path": "./assets/cards/s14.jpg",
+      "width": 500,
+      "height": 852,
+      "bytes": 150010,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/RWS1909_-_Swords_14.jpeg/500px-RWS1909_-_Swords_14.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/RWS1909_-_Swords_14.jpeg"
+    },
+    {
+      "code": "w01",
+      "path": "./assets/cards/w01.jpg",
+      "width": 500,
+      "height": 888,
+      "bytes": 136234,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/RWS1909_-_Wands_01.jpeg/500px-RWS1909_-_Wands_01.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/RWS1909_-_Wands_01.jpeg"
+    },
+    {
+      "code": "w02",
+      "path": "./assets/cards/w02.jpg",
+      "width": 500,
+      "height": 850,
+      "bytes": 137547,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/RWS1909_-_Wands_02.jpeg/500px-RWS1909_-_Wands_02.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/RWS1909_-_Wands_02.jpeg"
+    },
+    {
+      "code": "w03",
+      "path": "./assets/cards/w03.jpg",
+      "width": 500,
+      "height": 866,
+      "bytes": 149731,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/RWS1909_-_Wands_03.jpeg/500px-RWS1909_-_Wands_03.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/RWS1909_-_Wands_03.jpeg"
+    },
+    {
+      "code": "w04",
+      "path": "./assets/cards/w04.jpg",
+      "width": 500,
+      "height": 854,
+      "bytes": 128545,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/RWS1909_-_Wands_04.jpeg/500px-RWS1909_-_Wands_04.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/RWS1909_-_Wands_04.jpeg"
+    },
+    {
+      "code": "w05",
+      "path": "./assets/cards/w05.jpg",
+      "width": 500,
+      "height": 882,
+      "bytes": 146009,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/RWS1909_-_Wands_05.jpeg/500px-RWS1909_-_Wands_05.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/RWS1909_-_Wands_05.jpeg"
+    },
+    {
+      "code": "w06",
+      "path": "./assets/cards/w06.jpg",
+      "width": 500,
+      "height": 857,
+      "bytes": 140270,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/RWS1909_-_Wands_06.jpeg/500px-RWS1909_-_Wands_06.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/RWS1909_-_Wands_06.jpeg"
+    },
+    {
+      "code": "w07",
+      "path": "./assets/cards/w07.jpg",
+      "width": 500,
+      "height": 868,
+      "bytes": 143455,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/RWS1909_-_Wands_07.jpeg/500px-RWS1909_-_Wands_07.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/RWS1909_-_Wands_07.jpeg"
+    },
+    {
+      "code": "w08",
+      "path": "./assets/cards/w08.jpg",
+      "width": 500,
+      "height": 848,
+      "bytes": 132126,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/RWS1909_-_Wands_08.jpeg/500px-RWS1909_-_Wands_08.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/RWS1909_-_Wands_08.jpeg"
+    },
+    {
+      "code": "w09",
+      "path": "./assets/cards/w09.jpg",
+      "width": 500,
+      "height": 875,
+      "bytes": 154009,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/RWS1909_-_Wands_09.jpeg/500px-RWS1909_-_Wands_09.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS1909_-_Wands_09.jpeg"
+    },
+    {
+      "code": "w10",
+      "path": "./assets/cards/w10.jpg",
+      "width": 500,
+      "height": 858,
+      "bytes": 144675,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/RWS1909_-_Wands_10.jpeg/500px-RWS1909_-_Wands_10.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/RWS1909_-_Wands_10.jpeg"
+    },
+    {
+      "code": "w11",
+      "path": "./assets/cards/w11.jpg",
+      "width": 500,
+      "height": 868,
+      "bytes": 160550,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/RWS1909_-_Wands_11.jpeg/500px-RWS1909_-_Wands_11.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RWS1909_-_Wands_11.jpeg"
+    },
+    {
+      "code": "w12",
+      "path": "./assets/cards/w12.jpg",
+      "width": 500,
+      "height": 849,
+      "bytes": 157387,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/RWS1909_-_Wands_12.jpeg/500px-RWS1909_-_Wands_12.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/RWS1909_-_Wands_12.jpeg"
+    },
+    {
+      "code": "w13",
+      "path": "./assets/cards/w13.jpg",
+      "width": 500,
+      "height": 880,
+      "bytes": 171440,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/RWS1909_-_Wands_13.jpeg/500px-RWS1909_-_Wands_13.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/RWS1909_-_Wands_13.jpeg"
+    },
+    {
+      "code": "w14",
+      "path": "./assets/cards/w14.jpg",
+      "width": 500,
+      "height": 847,
+      "bytes": 164411,
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/RWS1909_-_Wands_14.jpeg/500px-RWS1909_-_Wands_14.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/RWS1909_-_Wands_14.jpeg"
+    }
+  ]
+}

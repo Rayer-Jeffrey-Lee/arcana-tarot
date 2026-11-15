@@ -1,8 +1,14 @@
-const VERSION='624c5022c6eb85';
+const VERSION='b0f309e6dcbc64';
 const PREFIX=`arcana-${encodeURIComponent(self.registration.scope)}-`;
 const CORE=PREFIX+VERSION,ART=PREFIX+VERSION+'-cards';
-const SHELL=['./','./index.html','./manifest.webmanifest','./privacy.html','./credits.html','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-maskable-512.png','./icons/apple-touch-icon.png'];
-self.addEventListener('install',event=>event.waitUntil(caches.open(CORE).then(cache=>cache.addAll(SHELL))));
+const SHELL=['./index.html','./manifest.webmanifest','./privacy.html','./credits.html','./icons/icon-192.png','./icons/icon-512.png','./icons/icon-maskable-512.png','./icons/apple-touch-icon.png','./assets/rayner-avatar.jpg','./assets/html2canvas.min.js'];
+// Registration happens after window.load: offline preparation does not block
+// first rendering. Cache the optional assets without executing the renderer.
+self.addEventListener('install',event=>event.waitUntil((async()=>{
+  const cache=await caches.open(CORE);await cache.addAll(SHELL);
+  // The root and index URL share one fetched HTML response.
+  await cache.put('./',(await cache.match('./index.html')).clone());
+})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith(PREFIX)&&key!==CORE&&key!==ART)await caches.delete(key);await self.clients.claim();})()));
 async function localArtwork(request){
   const cache=await caches.open(ART),cached=await cache.match(request);if(cached)return cached;
